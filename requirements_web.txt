@@ -1,0 +1,10 @@
+dspy==2.6.27
+transformers==4.40.0
+torch==2.1.0
+numpy==1.26.4
+pyarrow==12.0.0
+protobuf 
+sentencepiece
+chainlit==2.3.0
+sqlalchemy==2.0.44
+aiosqlite==0.21.0
